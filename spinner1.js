@@ -1,4 +1,6 @@
-//process.stdout.write('hello from spinner1.js... \rmeu\ny');
+
+
+ //process.stdout.write('hello from spinner1.js... \rmeu\ny');
  const w = (limit) => {   
   let i = 100; 
   while (i <= limit){
@@ -31,4 +33,3 @@
 
  const timeToLoad = 50000;
  w(timeToLoad);
-
